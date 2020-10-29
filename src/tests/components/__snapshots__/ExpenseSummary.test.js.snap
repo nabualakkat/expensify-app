@@ -12,3 +12,16 @@ exports[`should render ExpenseSummary with plural expenses 1`] = `
   </p>
 </div>
 `;
+
+exports[`should render ExpenseSummary with singular expense 1`] = `
+<div>
+  <p>
+    Viewing 
+    1
+     
+    expense
+     totalling 
+    $1.95
+  </p>
+</div>
+`;
