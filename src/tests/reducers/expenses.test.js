@@ -1,4 +1,3 @@
-import { TestScheduler } from 'jest'
 import expensesReducer from '../../reducers/expenses'
 import expenses from '../fixtures/expenses'
 
